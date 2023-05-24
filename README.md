@@ -13,7 +13,7 @@
 |          | Provides built-in Kubernetes dashboard for monitoring and management.                   | Many options are difficult to use or require manual setup.                            |
 |          | Supports integration with other tools such as Helm and Draft.                           | Requires shutting down Minikube when finished because of the VM’s drain on resources. |
 |          | Easy to install and set up.                                                             | Least widely used.                                                                    |
-|          | Provides support for multiple operating systems.                                        | Doesn't support LoadBalancer.                                                                                    |
+|          | Provides support for multiple operating systems.                                        |                                                                                 |
 | Kind     | Provides fast startup time for creating and deleting clusters.                          | Requires some overhead for a more high-fidelity cluster.                              |
 |          | Supports local image registry with our Kind setup tool.                                 | Many options are difficult to use or require manual setup.                            |
 |          | Built images are immediately available in-cluster.                                      |                                                                                       |
@@ -32,6 +32,7 @@
 |          | Supports integration with Kubernetes for running containers.                            |                                                                                       |
 |          | Supports multiple operating systems.                                                    |                                                                                       |
 |          | Provides a complete set of management tools.                                            |                                                                                       |
+
 **Examples:**
 Minikube Hello World
 
