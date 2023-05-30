@@ -39,3 +39,10 @@ Minikube Hello World
 
 ![](src/gif/minikube_hello_world_4x.gif)
 
+k3d Hello World
+
+![](src/gif/k3d-hello-world_3x.gif)
+
+kind Hello World
+
+![](src/gif/kind_hello_world_4x.gif)
