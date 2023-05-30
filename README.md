@@ -37,5 +37,5 @@
 
 Minikube Hello World
 
-![](https://github.com/vitalibit/AsciiArtify/tree/main/src/gif/minikube_hello_world_4x.gif)
+![](src/gif/minikube_hello_world_4x.gif)
 
