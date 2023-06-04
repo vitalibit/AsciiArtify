@@ -1,2 +1,2 @@
-# AsciiArtify Concept
-Go to /doc to see Concept.md
+# AsciiArtify
+Go to /doc to see Concept, POC and MVP
