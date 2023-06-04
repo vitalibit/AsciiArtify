@@ -2,7 +2,7 @@
 
 Argo CD in action. Deploying the application on ArgoCD.
 
-![](../src/gif/app-deploy.gif)
+![](../src/video/app-deploy.mp4)
 
 Autosync in work:
 
